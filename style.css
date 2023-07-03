@@ -88,20 +88,13 @@ main {
     padding: 20px 0px 30px;
 }
 
+main aside {
+    padding-bottom: 30px;
+}
+
 main aside p {
     text-align: justify;
     padding: 20px 0px 15px;
-}
-
-footer {
-    border: 1px;
-    text-align: center;
-}
-
-footer p {
-    font-size: 12px;
-    color: var(--footer-img-legend);
-    padding: 45px 0px 15px;
 }
 
 @media screen and (max-width: 768px) {
